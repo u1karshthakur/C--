@@ -45,7 +45,7 @@ class Sheep : public Animal {
   }
 
   void Sheep_detail(){
-    Animal_Details();
+    Animal_Detail();
     cout << "color : "  << color <<endl ;
   }
   
